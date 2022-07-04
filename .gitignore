@@ -1,0 +1,13 @@
+modem.img
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+system/system/apex/com.android.vndk.current.apex
+system/system/app/MiuiVideoPlayer/MiuiVideoPlayer.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+system_ext/priv-app/Settings/Settings.apk
+vendor/etc/camera/st_license.lic
+vendor/camera/mimoji/model2.zip
+cust/app/customized/partner-com.alibaba.aliexpresshd_54/partner-com.alibaba.aliexpresshd_54.apk
+cust/app/customized/partner-com.ebay.mobile_49/partner-com.ebay.mobile_49.apk
+cust/app/customized/partner-ru.aliexpress.buyer_165/partner-ru.aliexpress.buyer_165.apk
+boot.img
